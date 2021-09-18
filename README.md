@@ -1,4 +1,35 @@
-### Hi there 👋
+
+# Hey there, I'm Nb Praveen👋
+
+
+# Cyber_Security/Risk_Analyst  🔭
+
+## About Me 📫
+ ### Deveops - architect
+ 
+  Co-Founder of Ag-Bot https://www.ijert.org/research/agbot-IJERTV8IS080020.pdf
+  Member of 24-Balls - A Coumminity of TECH Enthusiasts and Fellow Developers.
+  
+ ### One line about be
+ I declare variable not war!
+
+## Open to collabrate :wink: 💬
+:small_orange_diamond: Cyber Security
+
+:small_orange_diamond: Deveops
+
+:small_orange_diamond: Network security Management
+
+:small_orange_diamond: Machine Learning & Data Science
+
+## ⚡ Funfact: My algorithm is N(O)!
+
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=praveen-nb&count_private=true&show_icons=true&include_all_commits=true" alt="Nb-praveen" | Stats" />
+</details>
+
+## Reach me via
 
 <!--
 **praveen-nb/praveen-nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
