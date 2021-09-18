@@ -7,8 +7,11 @@
 ## About Me 📫
  ### Deveops - architect
  
-  Co-Founder of Ag-Bot https://www.ijert.org/research/agbot-IJERTV8IS080020.pdf
-  Member of 24-Balls - A Coumminity of TECH Enthusiasts and Fellow Developers.
+  🌱Co-Founder of Ag-Bot https://www.ijert.org/research/agbot-IJERTV8IS080020.pdf 
+  
+  🌱Member of 24-Balls - A Coumminity of TECH Enthusiasts and Fellow Developers.
+  
+  🌱Member of 49-er security division.
   
  ### One line about be
  I declare variable not war!
