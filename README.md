@@ -30,6 +30,9 @@
 </details>
 
 ## Reach me via
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/praveen-balasubramanian96)
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/praveenofficialy/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/praveennb)   
 
 <!--
 **praveen-nb/praveen-nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
