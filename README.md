@@ -5,13 +5,16 @@
 # Cyber_Security/Risk_Analyst  🔭
 
 ## About Me 📫
- ### Deveops - architect
+ ### Deveops - Secure Ops Engineer
  
   🌱Co-Founder of Ag-Bot https://www.ijert.org/research/agbot-IJERTV8IS080020.pdf 
   
   🌱Member of 24-Balls - A Coumminity of TECH Enthusiasts and Fellow Developers.
   
   🌱Member of 49-er security division.
+    
+
+    
   
  ### One line about be
  I declare variable not war!
@@ -42,12 +45,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on GCP Cloud Security
+- 🌱 I’m currently learning AWS,GCP,Splunk,Cloud 
+- 👯 I’m looking to collaborate on Cloud Composer, Service Now, IAM 
+- 🤔 I’m looking for help with Entry level job in Cloud Security 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: +1 7047563621, praveen.balsa22@gmail.com
+- 😄 Pronouns: Mr.
+- ⚡ Fun fact: AWS DevOps associate and Certified Ethical Hacker.
 -->
