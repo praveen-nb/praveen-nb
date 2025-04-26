@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cloud+Security+%7C+DevSecOps+%7C+Automation+%7C+Threat+Hunting;AWS+%7C+Azure+%7C+Terraform+%7C+Ansible;Building+secure+and+resilient+infrastructures" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Cloud+Security+Architect;DevSecOps+Automation+Champion;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -90,11 +94,12 @@
 ## 📢 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveen-nb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/praveennainar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:praveen.nainar11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/praveen-nb" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">Passionate about building secure, scalable, and resilient cloud systems 🌌</p>
+
+<p align="center"> ✨ Always learning. Always securing. Always building. ✨ </p>
