@@ -1,6 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Praveen Nainar Balasubramanian</h1>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=American+Typewriter&weight=300&size=30&pause=1000&color=F70000&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Praveen+Nainar+Balasubramanian" alt="Typing SVG" /></a></h1>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Cloud+Security+Architect;DevSecOps+Automation+Champion;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
