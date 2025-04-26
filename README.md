@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Praveen Nainar Balasubramanian</h1>
-<h3 align="center">Cloud Security Engineer | DevSecOps Specialist | AWS & Azure Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Cloud+Security+Architect;DevSecOps+Automation+Champion;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
