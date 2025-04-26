@@ -59,6 +59,18 @@
 
 ---
 
+## 📚 Top Domains & Interests
+
+- ☁️ Cloud Security (AWS, Azure)
+- 🛡️ Security Incident & Event Management (SIEM)
+- 🔐 DevSecOps | Infrastructure-as-Code (Terraform, Ansible)
+- 🛠️ Automation | Python | Jenkins Pipelines
+- 🧠 Threat Hunting | Adversary Simulation (MITRE ATT&CK)
+- 📈 Cloud Cost Optimization & Performance Tuning
+- 🛡️ Zero Trust Network Access (ZTNA) | VPN Security
+
+---
+
 ## 📉 GitHub Streak
 
 <p align="center">
