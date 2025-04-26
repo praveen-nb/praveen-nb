@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Specialist | Cloud Security Enthusiast | DevSecOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Security+|+DevSecOps+|+Threat+Detection+|+Automation;Always+learning+new+skills+|+Building+secure+cloud+solutions;Let's+connect+and+build+secure+systems+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Security+|+DevSecOps+|+Threat+Detection+|+Automation;Always+learning+new+skills+|+Building+secure+cloud+solutions;Let's+connect+&+build+secure+systems+together!" alt="Typing SVG" />
 </p>
 
 ---
