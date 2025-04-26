@@ -7,30 +7,34 @@
 
 ---
 
-## ✨ About Me
+### 🧠 About Me
 
-- 🎓 MS in Cybersecurity from University of North Carolina at Charlotte
-- 🛡️ Cloud and Security Engineer passionate about multi-cloud, threat detection, automation & compliance
-- 📚 Always learning about advanced cyber threats, DevSecOps, and Zero Trust Architectures
-- 📊 AWS Certified DevOps Associate | CEH | CompTIA Security+ | Aviatrix MCNA
-- 🌐 Exploring AI/ML use-cases for security operations and anomaly detection
+- 🎓 Graduate: MS in Cybersecurity from University of North Carolina at Charlotte
+- 🛡️ Experienced in Cloud Security (AWS, Azure), Threat Detection, Automation, SIEM, DevSecOps
+- 🚀 Built and Secured Multi-Cloud Environments using Terraform, Ansible, Jenkins & Kubernetes
+- 🔍 Passionate about Cyber Defense, Threat Hunting, and Zero Trust Architecture
+- 🏆 Certified: AWS DevOps Associate | CEH | CompTIA Security+ | Aviatrix MCNA
+- 📝 Explore my projects and contributions on [GitHub](https://github.com/praveen-nb)
 
 ---
 
-## 🔥 Technologies & Tools
+## 🔥 Languages, Frameworks, Tools, and Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ansible-E00?style=flat&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ElasticStack-005571?style=flat&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SIEM-4DB33D?style=flat&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
