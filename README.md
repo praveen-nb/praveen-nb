@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me Details
 
 - 🎓 Graduate: MS in Cybersecurity from University of North Carolina at Charlotte
 - 🛡️ Experienced in Cloud Security (AWS, Azure), Threat Detection, Automation, SIEM, DevSecOps
