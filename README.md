@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Praveen Nainar </h1>
+<h1 align="center">Hey there 👋, I'm Praveen Balasubramanian </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Cloud+Security+Architect;DevSecOps+Automation+Champion;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
