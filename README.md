@@ -1,8 +1,12 @@
 <h1 align="center">Hey there 👋, I'm Praveen Nainar </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=CyberSecuriy and Software +Engineer;Cloud+Security+Architect;DevSecOps+Automation+Champion;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=CyberSecurity+and+Software+Engineer;Cloud+Security+Architect;DevSecOps+Automation+Champion;Threat+Hunter+%7C+Incident+Responder" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 ---
 
